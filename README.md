@@ -14,4 +14,4 @@ When added to Chrome, the extension will automatically convert ingredient amount
 ![Extension Popup](images/popup.png)
 
 ## License
-[MIT](https://github.com/)
+[MIT](https://github.com/tayharvey/cup2gram/LICENSE.txt)

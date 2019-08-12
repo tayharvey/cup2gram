@@ -21,15 +21,20 @@ var INGREDIENT_CONVERSION_TABLE = {
     "typical_measure" : MEASUREMENT_TYPE.GRAMS,
     "measure_in_cup" : 120
   },
-  "white_sugar" : {
-    "keywords": ["white sugar", "sugar"],
+  "rice" : {
+    "keywords": ["rice"],
     "typical_measure" : MEASUREMENT_TYPE.GRAMS,
-    "measure_in_cup" : 200
+    "measure_in_cup" : 225
   },
   "brown_sugar" : {
     "keywords": ["brown sugar", "sugar"],
     "typical_measure" : MEASUREMENT_TYPE.GRAMS,
     "measure_in_cup" : 213
+  },
+  "white_sugar" : {
+    "keywords": ["white sugar", "sugar"],
+    "typical_measure" : MEASUREMENT_TYPE.GRAMS,
+    "measure_in_cup" : 200
   },
   "butter" : {
     "keywords": ["butter"],

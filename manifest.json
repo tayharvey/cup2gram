@@ -1,8 +1,8 @@
 {
 "manifest_version": 2,
 "name": "Cup2Gram",
-"description": "Quick conversions for baking American recipes in grams.",
-"version": "0.1.8",
+"description": "Quick conversions for baking American recipes using the metric system.",
+"version": "0.1.11",
 "icons": {"128": "images/icon_128.png"},
 "content_scripts": [
     {
@@ -16,7 +16,7 @@
         "run_at": "document_end"
     }],
 "browser_action": {
-  "default_icon": "images/icon_128.png",
+  "default_icon": "images/icon.png",
   "default_popup": "popup.html"
 },
 "permissions": ["activeTab"]

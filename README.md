@@ -1,4 +1,4 @@
-<img src="https://github.com/tayharvey/cup2gram/blob/master/images/cup2gram_title.png" width="963">
+<img src="https://github.com/tayharvey/cup2gram/blob/master/images/cup2gram_title.png" width="963"/>
 <br />
 # Cup2Gram Chrome extension
 ## Issue Description

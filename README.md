@@ -1,5 +1,4 @@
 ![Cup2Gram Logo](images/cup2gram_title.png)
-
 # Cup2Gram Chrome extension
 ## Issue Description
 The user needed a solution for converting recipe ingredient quantities in the browser. When using American recipes, quantities listed in cups needed to be converted to metric equivalents. Existing tools required user input for each individual quantity, a tedious process that led to user frustration.
@@ -17,9 +16,9 @@ To use Cup2Gram, the user must follow these steps:
 1. Open Chrome web browser and access the extension on the [Chrome Web Store](https://chrome.google.com/webstore/detail/cup2gram/obcfddpfmiopcafbphnomjepgopgigah).
 2. Click "Add to Chrome".
 ![Add to Chrome](images/add_to_chrome.png)
-3. The window shown below will appear, notifying the user of the extension's Site access capabilities. Click "Add extension".
+3. The window shown below will appear, notifying the user of the extension's Site access capabilities. Click "Add extension". <br />
 ![Site access](images/site_access.png)
-4. When the extension has been successfully added, the window below will appear, noting that the icon need only be clicked to be used.
+4. When the extension has been successfully added, the window below will appear, noting that the icon need only be clicked to be used. <br />
 ![Extension added](images/extension_added.png)
 5. Visit a recipe webpage to see how Cup2Gram converts ingredient quantities and units.
 

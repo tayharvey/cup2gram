@@ -13,14 +13,14 @@ A Chrome extension (Cup2Gram) was developed to achieve the desired functionality
 
 ## Deployment Instructions
 To use Cup2Gram, the user must follow these steps:
-1. Open Chrome web browser and access the extension on the [Chrome Web Store](https://chrome.google.com/webstore/detail/cup2gram/obcfddpfmiopcafbphnomjepgopgigah).
+1. Open Chrome web browser and access the extension on the [Chrome Web Store](https://chrome.google.com/webstore/detail/cup2gram/obcfddpfmiopcafbphnomjepgopgigah). <br />
 2. Click "Add to Chrome".
 ![Add to Chrome](images/add_to_chrome.png)
 3. The window shown below will appear, notifying the user of the extension's Site access capabilities. Click "Add extension". <br />
-![Site access](images/site_access.png)
+![Site access](images/site_access.png) <br />
 4. When the extension has been successfully added, the window below will appear, noting that the icon need only be clicked to be used. <br />
-![Extension added](images/extension_added.png)
-5. Visit a recipe webpage to see how Cup2Gram converts ingredient quantities and units.
+![Extension added](images/extension_added.png) <br />
+5. Visit a recipe webpage to see how Cup2Gram converts ingredient quantities and units. <br />
 
 ## Testing
 This extension was tested in Chrome, Version 78.0.3904.70 (Official Build) (64-bit).

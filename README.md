@@ -27,4 +27,4 @@ To use Cup2Gram, the user must follow these steps:
 This extension was tested in Chrome, Version 78.0.3904.70 (Official Build) (64-bit).
 
 ## License
-[MIT](https://github.com/)
+[MIT](https://github.com/tayharvey/cup2gram/blob/master/LICENSE.txt)

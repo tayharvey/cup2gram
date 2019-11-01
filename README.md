@@ -1,4 +1,4 @@
-![Cup2Gram Logo](images/cup2gram_title.png | width=963)
+<img src="https://github.com/tayharvey/cup2gram/blob/master/images/cup2gram_title.png" width="963">
 # Cup2Gram Chrome extension
 ## Issue Description
 The user needed a solution for converting recipe ingredient quantities in the browser. When using American recipes, quantities listed in cups needed to be converted to metric equivalents. Existing tools required user input for each individual quantity, a tedious process that led to user frustration.

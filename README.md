@@ -7,7 +7,7 @@ The user needed a solution for converting recipe ingredient quantities in the br
 ## Desired Functionality
 The user wanted the ability to view a recipe in the browser with the ingredient quantities converted automatically.
 ## Solution Documentation
-A Chrome extension (Cup2Gram) was developed to achieve the desired functionality. Available in the Chrome Web Store, the extension automatically converts ingredient amounts and units on the webpage, as shown below (Figure 1).
+A Chrome extension (Cup2Gram) was developed to achieve the desired functionality. Available in the Chrome Web Store, the extension automatically converts ingredient amounts and units on the webpage, as shown below.
 
 ![Recipe Example](images/brownie_screenshot.png)
 

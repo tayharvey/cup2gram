@@ -3,7 +3,7 @@
 <br />
 # Cup2Gram Chrome extension
 ## Issue Description
-The user needed a solution for converting recipe ingredient quantities in the browser. When using American recipes, quantities listed in cups needed to be converted to metric equivalents. Existing tools required user input for each individual quantity, a tedious process that led to user frustration.
+The user needed a solution for converting recipe ingredient quantities in the browser. When using American recipes, quantities listed in cups or imperial quantities needed to be converted to metric equivalents. Existing tools required user input for each individual quantity, a tedious process that led to user frustration.
 ## Desired Functionality
 The user wanted the ability to view a recipe in the browser with the ingredient quantities converted automatically.
 ## Solution Documentation
